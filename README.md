@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aniketsaini65@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pkr7dVnM_foYMA1si0SOJXqVUiA0TRd1/view?usp=drive_link](https://drive.google.com/file/d/1Pkr7dVnM_foYMA1si0SOJXqVUiA0TRd1/view?usp=drive_link)
+- 📄 Know about my experiences [Resume-Link](https://drive.google.com/file/d/1Pkr7dVnM_foYMA1si0SOJXqVUiA0TRd1/view?usp=drive_link)
 
 - ⚡ Fun fact "Full stack developers are like wizards - they're capable of turning coffee into code and pizza into features, all while juggling front-end spells and back-end incantations!" 🧙‍♂️🍕**
 
